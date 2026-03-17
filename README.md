@@ -6,7 +6,9 @@
   
 ## 🧾 Sobre mim
 
-Atualmente me desenvolvendo na área de **Dados** com foco em **Análise de Dados** e **Business Intelligence**. Tenho me dedicado ao desenvolvimento de competências em **Power BI**, **SQL**, **Python** e **Excel**, com o objetivo de transformar dados em informações estratégicas para apoiar a tomada de decisões.
+Sou estudante de Ciência da Computação, com foco em Engenharia de Dados. Tenho direcionado meus estudos para o desenvolvimento de habilidades em Python, SQL e manipulação de dados, atuando na construção de pipelines simples, coleta de dados por meio de APIs e organização e armazenamento em bancos de dados.
+
+Possuo conhecimentos em ferramentas de análise, como Power BI, aplicando conceitos de visualização de dados para apoiar a tomada de decisões. Atualmente, busco aprofundar meus conhecimentos em Engenharia de Dados, com ênfase em processos de ETL/ELT, modelagem de dados e bancos de dados relacionais.
 
 ---
 
@@ -14,16 +16,12 @@ Atualmente me desenvolvendo na área de **Dados** com foco em **Análise de Dado
 
 <p>
   <img src="https://img.shields.io/badge/Power%20BI-ffcc00?style=flat&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ETL-Process-orange" />
   <img src="https://img.shields.io/badge/Agile-Scrum%20&%20Kanban-blue?style=flat"/>
 </p>
 
@@ -31,17 +29,14 @@ Atualmente me desenvolvendo na área de **Dados** com foco em **Análise de Dado
 
 ## 🎓 Formação Acadêmica
 
-**🎓 Engenharia de Software – Gran Faculdade**  
+**🎓 Ciência da Computação – Faculdade Unica LTDA**  
 📅 Previsão de conclusão: Dezembro de 2028 (EAD)
-
-**🎓 Analise e Desenvolvimento de Sistemas – Uníntese**  
-📅 Previsão de conclusão: Julho de 2026 (EAD)
 
 ---
 
 ## 📚 Cursos em Andamento
 
-- **Análise de Dados com Google** – Coursera  
+- **TOTVS - Fundamentos de Engenharia de Dados e Machine Learning** – Dio.me 
 - **Python: Do Básico à IA** – Data Science Academy  
 - **Microsoft Power BI para BI e Data Science** – Data Science Academy  
 
